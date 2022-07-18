@@ -68,8 +68,8 @@ class HashTable {
   }
   const ht = new HashTable();
 
-ht.set("DaNang", 43);
-ht.set("VietNam", 92);
+ht.set("Da Nang", 43);
+ht.set("Quang Nam", 92);
 ht.set("Ha Noi", 30);
 
 ht.display();
